@@ -32,27 +32,23 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
-            <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a class="home-link" href="index">Home</a></li>
+            <li><a href="signup">Sign Up</a></li>
+            <li><a href="signin">Sign In</a></li>
           </ul>
         </nav>
       </header>
 
       <div class="message">
-          <a class="twitter-link" href="http://twitter.com/home/?status=I%20created%20a%20project%20with%20AWS%20CodeStar!%20%23AWS%20%23AWSCodeStar%20https%3A%2F%2Faws.amazon.com%2Fcodestar">
-              <img src="${tweetSvg}" alt="Tweet"/>
-          </a>
         <div class="text">
-          <h1>Kevin Lai</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>CMPE 281</h1>
+          <h2>Java Spring web application.</h2>
         </div>
       </div>
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed by <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> Kevin Lai.</p>
+      <p class="footer-contents">Designed and developed by Kevin Lai.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
