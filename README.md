@@ -103,13 +103,17 @@ The list page also lists the above fields along with a link to download the file
 
 ## Demo Screenshots
 - **Home Page**
+
 ![Home Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-homepage.PNG)
 
 - **Sign Up Page**
+
 ![Sign Up Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signup.PNG)
 
 - **Sign In Page**
+
 ![Sign In Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin.PNG)
 
 - **User Signing In**
+
 ![User Sign In](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin-user-input.PNG)
