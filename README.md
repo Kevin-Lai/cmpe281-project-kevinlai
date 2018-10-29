@@ -102,7 +102,7 @@ The list page also lists the above fields along with a link to download the file
 ![Architecture Diagram](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281_project1_architecture_kevinlai.png)
 
 ## Demo Screenshots
-![Home Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-homepage.png)
-![Sign Up Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signup.png)
-![Sign In Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin.png)
-![User Sign In](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin-user-input.png)
+![Home Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-homepage.PNG)
+![Sign Up Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signup.PNG)
+![Sign In Page](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin.PNG)
+![User Sign In](https://github.com/Kevin-Lai/cmpe281-project-kevinlai/blob/master/images/cmpe281-project-signin-user-input.PNG)
